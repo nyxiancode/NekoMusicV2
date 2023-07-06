@@ -99,3 +99,16 @@ setting_13 : "tidak dapat mengubah mode pemutaran saat panggilan grup aktif. har
 setting_14 : "🤷‍♀️ apa ini ?\n\nketika diaktifkan, bot akan segera menghapus perintah yang dieksekusi (/play, /pause, /shuffle, /stop, dll).\n\nbot akan membutuhkan hak admin untuk menghapus pesan agar ini berfungsi dengan baik."
 setting_15 : "gagal menyelesaikan peer, pastikan kamu telah menambahkan bot di saluranmu dan mempromosikannya sebagai admin sayangku ​​🌹​​.\n\ncoba atur ulang /channelplay lagi."
 setting_16 : "🤷‍♀️ apa ini ?\n\nKetika diaktifkan, bot akan secara otomatis menyarankan perintah bot setiap 1-2 jam dalam obrolanmu."
+
+set_cb_1 : "mendapatkan panel kualitas audio..."
+set_cb_2 : "mendapatkan panel kualitas video..."
+set_cb_3 : "mendapatkan panel pengguna terotorisasi..."
+set_cb_4 : "mendapatkan panel mode putar..."
+set_cb_5 : "mendapatkan panel mode bersih..."
+set_cb_6 : "mengatur perubahan..."
+set_cb_7 : "mendapatkan daftar pengguna terotorisasi..."
+set_cb_8 : "kembali..."
+
+# Misc
+ustats_1 : "tidak ditemukan statistik pengguna."
+ustats_2 : "Halo sayangku ​​🌹 !, kamu telah memutar **{0}** trek hingga saat ini dengan total **{1}** kali.\n\n**{2}** yang paling sering diputar olehmu:\n\n"
