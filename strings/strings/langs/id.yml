@@ -1,0 +1,13 @@
+nama : Indonesia
+
+# General Strings
+general_1 : "balas pesan pengguna atau berikan nama pengguna/user_id."
+general_2 : "error! penggunaan perintah salah, sayang ​​🌹​​."
+general_3 : "terjadi kesalahan saat memproses permintaan Anda.\n\njenis kesalahan: {0}"
+general_4 : "Anda adalah admin anonim dalam grup obrolan ini!\nKembalikan akun pengguna untuk mendapatkan hak admin."
+general_5 : "Anda perlu menjadi admin dengan hak kelola video chat untuk melakukan tindakan ini."
+general_6 : "bot tidak sedang melakukan siaran di video chat."
+
+
+tg_1 : "bot sedang padat dengan unduhan saat ini, sayangku ​​🌹​​.\n\ncoba lagi setelah: {0} (perkiraan waktu)"
+tg_2 : "gagal mengunduh media dari telegram, sayangku ​​🌹​​."
