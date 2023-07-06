@@ -11,3 +11,16 @@ general_6 : "bot tidak sedang melakukan siaran di video chat."
 
 tg_1 : "bot sedang padat dengan unduhan saat ini, sayangku ​​🌹​​.\n\ncoba lagi setelah: {0} (perkiraan waktu)"
 tg_2 : "gagal mengunduh media dari telegram, sayangku ​​🌹​​."
+
+
+call_1 : "bot membutuhkan izin admin untuk mengundang akun asisten ke saluranmu, sayangku ​​🌹​​.\n\nnonaktifkan mode putar saluran melalui: /playmode"
+call_2 : "asisten dilarang di grup atau saluranmu, sayangku ​​🌹​​, harap hapus larangan.\n\nnama pengguna asisten: @{0}\nID asisten: {1}"
+call_3 : "terjadi kesalahan saat mengundang akun asisten ke percakapanmu, sayangku ​​🌹​​.\n\nalasan: {0}"
+call_4 : "bot membutuhkan izin undang pengguna melalui tautan untuk mengundang akun asisten ke grup percakapanmu, sayangku ​​🌹​​."
+call_5 : "akun asisten akan bergabung dalam 5 detik, harap tunggu..."
+call_6 : "akun asisten [{0}] bergabung dengan sukses, sayangku ​​🌹​​.\n\nmemulai musik sekarang"
+call_7 : "hak admin berbahaya diberikan\n\nharap hapus hak larang pengguna dari bot, sayangku ​​🌹​​."
+call_8 : "hak admin berbahaya diberikan\n\nharap hapus hak tambah admin baru dari bot, sayangku ​​🌹​​."
+call_9 : "gagal mengalihkan stream\nharap gunakan /skip untuk mengganti lagu lagi, sayangku ​​🌹​​."
+call_10 : "mengunduh lagu berikutnya dari daftar putar, sayangku ​​🌹​​."
+call_11 : "harap tambahkan @{0} ke saluranmu​​[ ID: {1}].\n\nbot tidak dapat mengambil detail saluran​​."
