@@ -112,3 +112,16 @@ set_cb_8 : "kembali..."
 # Misc
 ustats_1 : "tidak ditemukan statistik pengguna."
 ustats_2 : "Halo sayangku ​​🌹 !, kamu telah memutar **{0}** trek hingga saat ini dengan total **{1}** kali.\n\n**{2}** yang paling sering diputar olehmu:\n\n"
+
+gstats_1 : "mendapatkan statistik global, ini mungkin membutuhkan waktu..."
+gstats_2 : "tidak ditemukan statistik global."
+gstats_3 : "mendapatkan 10 besar global {0} dari bot, ini mungkin membutuhkan waktu..."
+gstats_4 : "**total permintaan pada bot:** {0}\n\n{1} telah memutar **{2}** trek hingga saat ini dengan jumlah yang fantastis sebanyak **{3}** kali.\n\n**10 trek teratas:**\n"
+gstats_5 : "**10 obrolan teratas {0} dari {1}:**\n\n"
+gstats_6 : "**10 pengguna teratas dari {0}:**\n\n"
+gstats_7 : "grup obrolan ini telah memutar **{0}** trek hingga saat ini dengan jumlah yang fantastis sebanyak **{1}** kali.\n\n10 teratas yang diputar oleh grup obrolan ini:\n\n"
+gstats_8 : "mendapatkan statistik umum dan informasi bot.. ini mungkin membutuhkan waktu..."
+gstats_9 : "**10 statistik teratas global dari bot sayangku ​​🌹**\n\npilih tombol di bawah ini untuk memeriksa statistik global dari server bot."
+gstats_10 : "**Statistik global {0}**\n\npilih tombol di bawah ini untuk memeriksa statistik global dari server bot."
+gstats_11 : "**Statistik umum {0}**\npilih tombol di bawah ini untuk memeriksa statistik global dari server bot.\n\ngunakan /gstats untuk memeriksa trek teratas, obrolan, pengguna, dan berbagai hal lainnya."
+9
