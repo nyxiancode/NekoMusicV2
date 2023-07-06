@@ -81,3 +81,21 @@ start_4 : "pemilik {0}, [{1}] baru saja bergabung dengan obrolanmu."
 start_5 : "pengguna sudo {0}, [{1}] baru saja bergabung dengan obrolanmu."
 start_6 : "🦸 **membutuhkan supergroup** 🦸\n\nharap ubah **grup** kamu menjadi **supergroup** dan kemudian tambahkan saya kembali.\n\n**bagaimana cara membuat supergroup ?**\n🥱 buat riwayat obrolan grup kamu **terlihat**."
 start_7 : "**chat masuk daftar hitam**\n\nobrolan ini masuk daftar hitam untuk menggunakan bot. mohon kepada pengguna sudo untuk memasukkan obrolanmu ke dalam daftar putih, pengguna sudo [daftar]({0}), jika tidak, silahkan pergi saja."
+
+
+help_1 : "pilih kategori untuk mendapatkan bantuan.\ntanyakan keraguanmu di @Jankari_Ki_Duniya\n\nsemua perintah dapat digunakan dengan : `/` **didukung oleh** @Alexa_BotUpdates, @Alexa_Help @Shayri_Music_Lovers"
+help_2 : "• bantuan •"
+
+# Pengaturan
+setting_1 : "⚙️ **pengaturan bot musik**\n\n🌹**grup:** {0}\n🌹**id grup:** `{1}`\n\n🌹**pilih tombol fungsi di bawah ini yang ingin kamu edit atau ubah.**"
+setting_3 : "🤷‍♀️ apa ini ?\n\n1) langsung: memutar pencarian secara langsung. gunakan -v untuk memutar video dalam mode langsung.\n\n2) inline: mengembalikan tombol markup inline untuk memilih antara video & audio."
+setting_4 : "🤷‍♀️ apa ini ?\n\n🦸 semua orang: semua orang dapat menggunakan perintah admin (skip, pause, resume, dll) yang ada di grup ini.\n\n🥷 hanya admin: hanya admin dan pengguna yang diizinkan dapat menggunakan perintah admin."
+setting_5 : "tidak ada pengguna yang diizinkan ditemukan.\n\nkamu dapat mengizinkan pengguna non-admin untuk menggunakan perintah admin saya dengan menggunakan /auth dan hapus dengan menggunakan /unauth"
+setting_9 : "🤷‍♀️ apa ini ?\n\nketika diaktifkan, bot akan menghapus pesannya setelah {0} untuk membuat obrolanmu bersih dan jelas."
+setting_10 : "🤷‍♀️ apa ini ?\n\n1) grup: memutar musik di grup tempat perintah diberikan.\n\n2) saluran: memutar musik di saluran yang kamu inginkan. tetapkan id saluran melalui /channelplay"
+setting_11 : "🤷‍♀️ apa ini ?\n\n1) semua orang: siapa saja yang ada di grup ini dapat memutar musik di sini.\n\n2) hanya admin: hanya admin yang dapat memutar musik di grup ini."
+setting_12 : "🤷‍♀️ kamu belum menentukan id saluran untuk mode saluran. harap tentukan dengan menggunakan /channelplay."
+setting_13 : "tidak dapat mengubah mode pemutaran saat panggilan grup aktif. harap hentikan voice chat terlebih dahulu dengan /stop atau /end."
+setting_14 : "🤷‍♀️ apa ini ?\n\nketika diaktifkan, bot akan segera menghapus perintah yang dieksekusi (/play, /pause, /shuffle, /stop, dll).\n\nbot akan membutuhkan hak admin untuk menghapus pesan agar ini berfungsi dengan baik."
+setting_15 : "gagal menyelesaikan peer, pastikan kamu telah menambahkan bot di saluranmu dan mempromosikannya sebagai admin sayangku ​​🌹​​.\n\ncoba atur ulang /channelplay lagi."
+setting_16 : "🤷‍♀️ apa ini ?\nsetting_16 : "Ketika diaktifkan, bot akan secara otomatis menyarankan perintah bot setiap 1-2 jam dalam obrolanmu."
