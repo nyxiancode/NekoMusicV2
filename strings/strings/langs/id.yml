@@ -24,3 +24,13 @@ call_8 : "hak admin berbahaya diberikan\n\nharap hapus hak tambah admin baru dar
 call_9 : "gagal mengalihkan stream\nharap gunakan /skip untuk mengganti lagu lagi, sayangku ​​🌹​​."
 call_10 : "mengunduh lagu berikutnya dari daftar putar, sayangku ​​🌹​​."
 call_11 : "harap tambahkan @{0} ke saluranmu​​[ ID: {1}].\n\nbot tidak dapat mengambil detail saluran​​."
+
+
+auth_1 : "kamu hanya dapat memiliki 20 pengguna dalam daftar pengguna yang diizinkan (aul) grupmu, sayangku ​​🌹​​"
+auth_2 : "ditambahkan ke daftar pengguna yang diizinkan grupmu, sayangku ​​🌹​​."
+auth_3 : "sudah ada dalam daftar pengguna yang diizinkan, sayangku ​​🌹​​."
+auth_4 : "dihapus dari daftar pengguna yang diizinkan grup ini, sayangku ​​🌹​​."
+auth_5 : "pengguna yang dituju bukan pengguna yang diizinkan, sayangku ​​🌹​​."
+auth_6 : "mengambil daftar pengguna yang diizinkan... harap tunggu, sayangku ​​🌹​​!"
+auth_7 : "daftar pengguna yang diizinkan [aul]:\n\n"
+auth_8 : "┗ ditambahkan oleh:-"
