@@ -83,7 +83,7 @@ start_6 : "🦸 **membutuhkan supergroup** 🦸\n\nharap ubah **grup** kamu menj
 start_7 : "**chat masuk daftar hitam**\n\nobrolan ini masuk daftar hitam untuk menggunakan bot. mohon kepada pengguna sudo untuk memasukkan obrolanmu ke dalam daftar putih, pengguna sudo [daftar]({0}), jika tidak, silahkan pergi saja."
 
 
-help_1 : "pilih kategori untuk mendapatkan bantuan.\ntanyakan keraguanmu di @Jankari_Ki_Duniya\n\nsemua perintah dapat digunakan dengan : `/` **didukung oleh** @Alexa_BotUpdates, @Alexa_Help @Shayri_Music_Lovers"
+help_1 : "pilih kategori untuk mendapatkan bantuan.\ntanyakan keraguanmu ke @OwnNeko\n\nsemua perintah dapat digunakan dengan : `/` **didukung oleh** @NekoMenfess, @SayaNeko"
 help_2 : "• bantuan •"
 
 # Pengaturan
@@ -98,4 +98,4 @@ setting_12 : "🤷‍♀️ kamu belum menentukan id saluran untuk mode saluran.
 setting_13 : "tidak dapat mengubah mode pemutaran saat panggilan grup aktif. harap hentikan voice chat terlebih dahulu dengan /stop atau /end."
 setting_14 : "🤷‍♀️ apa ini ?\n\nketika diaktifkan, bot akan segera menghapus perintah yang dieksekusi (/play, /pause, /shuffle, /stop, dll).\n\nbot akan membutuhkan hak admin untuk menghapus pesan agar ini berfungsi dengan baik."
 setting_15 : "gagal menyelesaikan peer, pastikan kamu telah menambahkan bot di saluranmu dan mempromosikannya sebagai admin sayangku ​​🌹​​.\n\ncoba atur ulang /channelplay lagi."
-setting_16 : "🤷‍♀️ apa ini ?\nsetting_16 : "Ketika diaktifkan, bot akan secara otomatis menyarankan perintah bot setiap 1-2 jam dalam obrolanmu."
+setting_16 : "🤷‍♀️ apa ini ?\n\nKetika diaktifkan, bot akan secara otomatis menyarankan perintah bot setiap 1-2 jam dalam obrolanmu."
