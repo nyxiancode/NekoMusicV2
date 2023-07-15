@@ -155,4 +155,49 @@ play_16 : "Gagal mengambil detail lagu, mungkin lagu tersebut dibatasi berdasark
 play_17 : "Tidak dapat memutar jenis permintaan Spotify ini!\n\nSaya hanya bisa memutar lagu, album, artis, dan playlist Spotify."
 play_18 : "**Voice Chat Tidak Aktif**\n\nUntuk menggunakan Force Play, harus ada voice chat yang aktif."
 
+playlist_1: "**PENGGUNAAN:** /play [NAMA MUSIK ATAU LINK YOUTUBE ATAU REPLY KE AUDIO]\n\nJika Anda ingin memutar daftar putar server bot! Tekan tombol di bawah ini."
+playlist_2: "Mendapatkan daftar putar Anda... Harap tunggu!"
+playlist_3: "Anda tidak memiliki daftar putar di server bot."
+playlist_4: "Daftar putar yang diambil:\n\n"
+playlist_5: "Durasi - {0} menit"
+playlist_6: "Hubungi saya secara pribadi untuk penghapusan daftar putar."
+playlist_7: "Track dalam daftar putar: {0}\n\nTekan tombol untuk menghapus trek tertentu dalam daftar putar Anda.\n\nUntuk menghapus seluruh daftar putar: Tekan tombol hapus seluruh daftar putar."
+playlist_8: "Sudah ada\n\nTrek ini sudah ada dalam daftar putar Anda."
+playlist_9: "Maaf! Anda hanya dapat memiliki {0} musik dalam satu daftar putar, sayangku 🌹."
+playlist_10: "Penambahan daftar putar\n\n{0}\nDitambahkan ke daftar putar Anda."
+playlist_11: "Berhasil menghapus trek Anda."
+playlist_12: "Gagal menghapus trek Anda."
+playlist_13: "Menghapus semua daftar putar Anda dari server."
+playlist_14: "**Apakah Anda yakin ingin menghapus seluruh daftar putar Anda?**\n\nAnda akan kehilangan daftar putar Anda dan ini tidak dapat dipulihkan nanti."
+playlist_15: "[CEK SELURUH DAFTAR PUTAR]({0})"
+playlist_16: "Daftar Putar Antrian:"
+playlist_17: "Posisi Antrian -"
+playlist_18: "[CEK SELURUH DAFTAR PUTAR ANTRIAN]({0})\n\nPosisi antrian terakhir: **{1}**"
+
+playmode_1: "Pilih mode di mana Anda ingin memainkan kueri di dalam grup Anda [{0}]."
+playmode_2: "Pengaturan diubah dan berhasil disimpan oleh {0}."
+
+str_1: "Silakan berikan tautan m3u8 atau tautan indeks."
+str_2: "🌹 Verifikasi aliran valid\n\nMohon tunggu, proses tautan sedang berlangsung..."
+str_3: "Tidak dapat mengalirkan streaming YouTube langsung. Tidak ada format streaming langsung yang ditemukan."
+
+tracks_1: "**Memproses {0} lagu teratas dalam 10 playlist**\n\n🌹**Diminta oleh:** {1}\n📢**Mainkan di saluran:** {2}\n\nCek 10 lagu teratas dengan menggunakan /stats"
+tracks_2: "**Error**\n\nTidak ada **{0} playlist teratas** di server bot. Silakan coba playlist lain."
+
+lyrics_1 : "**PENGGUNAAN:**\n\n/lyrics [ NAMA LAGU]"
+lyrics_2 : "MENCARI LIRIK..."
+lyrics_3 : "❌ GAGAL MENGAMBIL LIRIK 🥲.\n\n🎐**PENCARIAN DILAKUKAN UNTUK:** {0}"
+lyrics_4 : "KLIK TOMBOL DI BAWAH DAN DAPATKAN LIRIK YANG DICARI UNTUK MENGHINDARI MENGETIK LIRIK SECARA PANJANG."
+
+ping_1: "» Mengirimkan ping ​🌹..."
+ping_2: "**» Pong ​🌹 «**\n`🌋 {0} ms`\n\n<b><u>Status sistem:</u></b>\n\n🌋 Uptime : {2} \n🌋 RAM : {3} \n🌋 CPU : {4} \n🌋 Disk : {5} \n🌋 Waktu Respons Pyrogram : `{6} ms`\n🌹 **Server** : @NekoLocal"
+
+
+
+
+
+
+
+
+
 
