@@ -124,4 +124,35 @@ gstats_8 : "mendapatkan statistik umum dan informasi bot.. ini mungkin membutuhk
 gstats_9 : "**10 statistik teratas global dari bot sayangku ​​🌹**\n\npilih tombol di bawah ini untuk memeriksa statistik global dari server bot."
 gstats_10 : "**Statistik global {0}**\n\npilih tombol di bawah ini untuk memeriksa statistik global dari server bot."
 gstats_11 : "**Statistik umum {0}**\npilih tombol di bawah ini untuk memeriksa statistik global dari server bot.\n\ngunakan /gstats untuk memeriksa trek teratas, obrolan, pengguna, dan berbagai hal lainnya."
-9
+
+
+playcb_1 : "ini bukan untukmu cintaku 🌹 ! cari sendiri." 
+playcb_2 : "mendapatkan hasil selanjutnya..."
+
+cplay_1 : "Anda dapat memutar musik di saluran dari obrolan ini [{0}] ke saluran mana pun atau saluran terhubung obrolan Anda.\n\n**Untuk saluran terhubung:**\n/{1} terhubung\n\n**Untuk saluran lainnya:**\n/{1} [id saluran]"
+cplay_2 : "Obrolan ini tidak memiliki saluran terhubung."
+cplay_3 : "Saluran ditentukan ke {0}\n\nid saluran: {1}"
+cplay_4 : "Gagal mendapatkan saluran.\n\nPastikan Anda telah menambahkan bot di saluran Anda dan mempromosikannya sebagai admin.\nUbah saluran melalui /channelplay atau nonaktifkan mode pemutaran saluran melalui /playmode"
+cplay_5 : "Hanya saluran yang didukung."
+cplay_6 : "Anda perlu menjadi **pemilik** saluran [{0}] untuk menghubungkannya dengan grup ini.\n**Pemilik saluran:** @{1}\n\nAlternatifnya, Anda dapat menghubungkan grup Anda ke saluran tersebut dan kemudian mencoba menghubungkannya dengan `/channelplay linked`"
+
+play_1 : "**» Mencari lagu untukmu, sayang 🌹🎙️🕹️🥀🌷 Tunggu sebentar...**"
+play_2 : "🏷**Mode Pemutaran Saluran**\n🔄 Memproses permintaan... Mohon tunggu!\n\n**Saluran Terhubung:** {0}"
+play_3 : "Gagal memproses permintaan!"
+play_4 : "🖇 **Hanya Admin yang Bisa Memutar**\nHanya admin dan pengguna yang diotorisasi yang dapat memutar musik di grup ini.\n\nUbah mode melalui /playmode, dan jika Anda sudah menjadi admin, perbarui admincache melalui /admincache or /reload"
+play_5 : "Gagal memproses file audio.\n\nUkuran file audio harus kurang dari 100 MB."
+play_6 : "**Durasi Melebihi Batas**\n\n**Durasi yang Diperbolehkan:** {0} menit\n**Durasi yang Diterima:** {1} menit"
+play_7 : "Maaf! Bot hanya mengizinkan sejumlah terbatas panggilan video karena masalah beban CPU. Banyak obrolan lain saat ini menggunakan panggilan video. Coba beralih ke panggilan audio atau coba lagi nanti."
+play_8 : "Bukan ekstensi file video yang valid, sayang ​🌹!\n\n**Format yang Didukung:** {0}"
+play_9 : "Ukuran file video harus kurang dari 1 GiB"
+play_10 : "**Fitur Playlist YouTube**\n\nPilih mode di mana Anda ingin memutar seluruh playlist YouTube"
+play_11 : "🌹**Judul:** {0}\n\n🕕**Durasi:** {1} menit"
+play_12 : "**Playlist Spotify**\n\nDiminta oleh: {0}"
+play_13 : "**Playlist Apple Music**\n\nDiminta oleh: {0}"
+play_14 : "**Tidak Dapat Memverifikasi URL.**\nBot mencurigai apakah URL ini milik salah satu platform berikut: YouTube, Apple Music, Spotify, Resso, atau SoundCloud.\n\nAnda dapat menggunakan /stream untuk file m3u8 atau tautan jarak jauh."
+play_15 : "**Deteksi Live Stream**\n\nSistem mendeteksi tautan lagu Anda sebagai live stream. Ingin memutar live stream?"
+play_16 : "Gagal mengambil detail lagu, mungkin lagu tersebut dibatasi berdasarkan usia di YouTube. Coba putar lagu lain."
+play_17 : "Tidak dapat memutar jenis permintaan Spotify ini!\n\nSaya hanya bisa memutar lagu, album, artis, dan playlist Spotify."
+play_18 : "**Voice Chat Tidak Aktif**\n\nUntuk menggunakan Force Play, harus ada voice chat yang aktif."
+
+
