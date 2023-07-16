@@ -1,6 +1,6 @@
 from config import LOG, LOG_GROUP_ID, MUSIC_BOT_NAME
-from AlexaMusic.utils.database import is_on_off
-from AlexaMusic import app
+from NekoMusic.utils.database import is_on_off
+from NekoMusic import app
 
 
 async def play_logs(message, streamtype):
