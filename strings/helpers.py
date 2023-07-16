@@ -50,4 +50,3 @@ Perintah Putar Paksa: playforce, vplayforce, cplayforce
 /deleteplaylist: Hapus lagu yang disimpan dalam daftar putar.
 /play: Memulai memutar lagu dari daftar putar yang disimpan di server.
 **Powered by** @NekoLocal."""
-
