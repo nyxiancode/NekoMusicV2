@@ -1,6 +1,6 @@
 from typing import Dict, List, Union
 
-from AlexaMusic.core.mongo import mongodb
+from NekoMusic.core.mongo import mongodb
 
 gbansdb = db.gban
 
