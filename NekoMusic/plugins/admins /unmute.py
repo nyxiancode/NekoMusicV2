@@ -11,6 +11,7 @@ from NekoMusic.utils.decorators import AdminRightsCheck
 # Commands
 UNMUTE_COMMAND = get_command("UNMUTE_COMMAND")
 
+
 @app.on_message(
     filters.command(UNMUTE_COMMAND) & filters.group & ~filters.edited & ~BANNED_USERS
 )
